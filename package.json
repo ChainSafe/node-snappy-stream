@@ -22,7 +22,9 @@
     "buffer-alloc": "^1.2.0",
     "buffer-equal": "1.0.0",
     "buffer-from": "^1.1.1",
-    "fast-crc32c": "^1.0.1",
+    "fast-crc32c": "^1.0.1"
+  },
+  "peerDependencies": {
     "snappy": "^6.0.1"
   },
   "directories": {
